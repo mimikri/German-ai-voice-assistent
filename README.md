@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e527954a7f18df53451c303e2003a971cd05d96bbcc9ed2e75a8d1518780aea9
-size 386
+# German ai voice assisten
+
+## Overview
+works with ollama
+## Features 
+can talk to llm , taking german voice commands and answering in german
+running good with qwen3:30b in ollama
+can make commands like starting programs or shutdown or what you wish
+orders can be edited in ui
+can do dictation , like you say. schreib ... and what it shall writ and it will write it via keyboard inputs
