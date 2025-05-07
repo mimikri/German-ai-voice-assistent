@@ -1,4 +1,4 @@
-# German ai voice assisten
+# German ai voice assistent
 
 ## Overview
 works with ollama

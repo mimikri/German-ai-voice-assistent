@@ -1,0 +1,16 @@
+torch
+TTS
+pyaudio
+wave
+pynput
+ollama
+tkinter
+speech_recognition
+sys
+os
+multiprocess
+copy
+pyttsx4
+array
+pydub
+re
